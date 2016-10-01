@@ -11,4 +11,5 @@ Additional subjects (like Home Science, IT) are still not added in this project.
 Subjects which may upgrade your grade are also not present, so upgradation is not mentioned in this app
 Also, you can edit this software. It is very basic and anyone with a basic knowledge of python may be able to edit this software. The file "CGPACalc.py" is the source code of the software.
 Also, please make me aware of any mistakes you find in this software.
+NOTE: THIS SOFTWARE IS ONLY AVAILABLD FOR WINDOWS. SO DONT DOWNLOAD IT ON ANDROID, MAC OSX OR LINUX.
 Thanks for downloading this software. Recommend this software to your friends only if you like it.
