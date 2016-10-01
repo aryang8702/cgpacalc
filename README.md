@@ -9,4 +9,6 @@ Also, you only get to know your CGPA if you have a complete data of marks with y
 The software will be updated regularly if you want it to be updated.
 Additional subjects (like Home Science, IT) are still not added in this project.
 Subjects which may upgrade your grade are also not present, so upgradation is not mentioned in this app
-Please download this app and ask your friends to the same. I would be very thankful to you if you do so.
+Also, you can edit this software. It is very basic and anyone with a basic knowledge of python may be able to edit this software. The file "CGPACalc.py" is the source code of the software.
+Also, please make me aware of any mistakes you find in this software.
+Thanks for downloading this software. Recommend this software to your friends only if you like it.
