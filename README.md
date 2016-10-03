@@ -13,4 +13,5 @@ Also, you can edit this software. It is very basic and anyone with a basic knowl
 Also, please make me aware of any mistakes you find in this software.
 NOTE: THIS SOFTWARE IS ONLY AVAILABLD FOR WINDOWS. SO DONT DOWNLOAD IT ON ANDROID, MAC OSX OR LINUX.
 Also fixed the CGPA Calculation part in the end. A slight problem. Now it's good to be downloaded again.
+Repaired the Total marks feature.
 Thanks for downloading this software. Recommend this software to your friends only if you like it.
